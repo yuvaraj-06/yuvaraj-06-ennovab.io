@@ -1,0 +1,21 @@
+
+.container {
+  color:#ff0000 ;
+  text-align: center;
+}
+
+li span {
+  display: block;
+  font-size: 4.5rem;
+  font-style:Impact;
+  
+}
+li {
+  display: inline-block;
+  font-size: 1.9em;
+  font-style:italic;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+  font-color: #ff0000;
+}
